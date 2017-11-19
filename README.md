@@ -1,2 +1,2 @@
 # Coffee-Website
-2 Coffee HTML Files
+Coffee Website static url: https://aharri71.github.io/Coffee-Website/
